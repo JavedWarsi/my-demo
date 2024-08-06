@@ -1,4 +1,4 @@
 # my-demo
-this is the git repo
+This is the git repo
 <br>
-author:-Javed warsi
+Author:-Javed warsi
